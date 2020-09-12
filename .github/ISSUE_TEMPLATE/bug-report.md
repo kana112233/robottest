@@ -6,7 +6,7 @@ labels: type/bug
 
 ## Bug Report(我要报Bug)
 
-Please answer these questions before submitting your issue. Thanks!
+Please answer these questions before submitting your issue. Thanks!(提问前请先回答下面的问题,谢谢!)
 
 1. What did you do?(你做了什么?)
 If possible, provide a recipe for reproducing the error.(重现Bug的过程)
