@@ -8,8 +8,8 @@ labels: type/bug
 
 Please answer these questions before submitting your issue. Thanks!
 
-1. What did you do?(重现Bug的过程?)
-If possible, provide a recipe for reproducing the error.
+1. What did you do?(你做了什么?)
+If possible, provide a recipe for reproducing the error.(重现Bug的过程)
 
 
 2. What did you expect to see?(期待的结果是什么样的?)
